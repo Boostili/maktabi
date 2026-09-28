@@ -2,7 +2,7 @@
 
 - Status: In-progress
 - Milestone: Repository setup
-- Blocker: repository creation/publish access; the approved destination is confirmed as `Boostili/maktabi`, public, default branch `main`
+- Blocker: GitHub visibility and repository settings; the approved destination is `Boostili/maktabi`, intended public, default branch `main`
 
 ## Outcome
 
@@ -32,4 +32,4 @@ Connect the local `maktabi/` repository to its approved GitHub home without chan
 
 ## Progress evidence
 
-Confirmed 2026-09-27: the connected GitHub account is `Boostili`, with no organization required for the approved personal repository destination. `Boostili/maktabi` is not present yet. The connector can inspect repositories but does not expose repository creation; the browser fallback is signed out. Create the empty public repository with `main` as its default branch, then this ticket can add `origin`, publish the local history, and apply the documented metadata and branch rules.
+Updated 2026-09-28: the connected GitHub account is `Boostili`, and `Boostili/maktabi` now exists with `main` as its default branch. The local history, brand sources, inventories, tickets, Windows exports, and MKT-102 experience graphics are published at commit `f1c62954973d62d35621e26c1d4fa646b9dc20ed`; the local repository has `origin=https://github.com/Boostili/maktabi.git`. The connected GitHub actions do not expose repository visibility, description, website, topics, issue/PR settings, or branch-protection writes. GitHub currently reports the repository as private, so the remaining handoff is to set it public and apply the documented metadata/rules in GitHub settings.

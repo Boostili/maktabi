@@ -44,7 +44,7 @@ flowchart LR
 
 | ID | Ticket | Status | Depends on |
 | --- | --- | --- | --- |
-| [MKT-001](tickets/MKT-001-connect-github.md) | Connect the Maktabi GitHub repository when details are supplied | in-progress | Repository creation/publish access |
+| [MKT-001](tickets/MKT-001-connect-github.md) | Connect the Maktabi GitHub repository when details are supplied | in-progress | GitHub visibility and repository settings |
 | [MKT-002](tickets/MKT-002-freeze-brand-manifest.md) | Freeze approved identity masters and manifest | complete | Phase 2 P2-02–P2-08 |
 | [MKT-003](tickets/MKT-003-maintain-route-inventory.md) | Maintain the asset, text, link, and compatibility inventory | in-progress | none |
 | [MKT-101](tickets/MKT-101-windows-asset-export-matrix.md) | Produce the Windows icon and shared export matrix | complete | MKT-002 |
