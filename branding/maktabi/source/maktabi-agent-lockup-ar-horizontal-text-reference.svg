@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="424" height="120" viewBox="0 0 424 120" role="img" aria-labelledby="title desc">
+  <title id="title">Maktabi Agent Arabic horizontal lockup — editable text reference</title>
+  <desc id="desc">Review-only right-to-left construction reference using Tajawal Bold from Google Fonts for مكتبي, with a protected gap before the symbol on the right.</desc>
+  <text x="232" y="86" textLength="208" lengthAdjust="spacingAndGlyphs" fill="#09090B" direction="rtl" unicode-bidi="plaintext" text-anchor="end" font-family="Tajawal, Arial, sans-serif" font-size="80" font-weight="700">مكتبي</text>
+  <g id="maktabi-agent-mark" transform="translate(286 0)">
+    <rect width="120" height="120" rx="29" fill="#09090B"/>
+    <g fill="#FFFFFF">
+      <rect x="22" y="26" width="18" height="68" rx="2" transform="rotate(10 31 60)"/>
+      <rect x="51" y="26" width="18" height="68" rx="2"/>
+      <rect x="80" y="26" width="18" height="68" rx="2"/>
+    </g>
+  </g>
+</svg>

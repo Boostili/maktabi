@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Maktabi Agent geometric book workspace symbol</title>
+  <desc id="desc">Obsidian rounded workspace containing three identical White book modules; the first book leans by ten degrees.</desc>
+  <rect width="120" height="120" rx="29" fill="#09090B"/>
+  <g fill="#FFFFFF">
+    <rect x="22" y="26" width="18" height="68" rx="2" transform="rotate(10 31 60)"/>
+    <rect x="51" y="26" width="18" height="68" rx="2"/>
+    <rect x="80" y="26" width="18" height="68" rx="2"/>
+  </g>
+</svg>

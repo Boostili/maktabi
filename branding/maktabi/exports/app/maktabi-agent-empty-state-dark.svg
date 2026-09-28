@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Maktabi Agent empty conversation illustration</title>
+  <desc id="desc">An empty Obsidian conversation workspace represented by an open white book and a quiet baseline.</desc>
+  <rect width="1200" height="720" rx="40" fill="#09090B"/>
+  <path d="M176 536h848" stroke="#FFFFFF" stroke-opacity=".2" stroke-width="2"/>
+  <path d="M314 438c84-95 164-117 286-117s202 22 286 117" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M314 438c95 26 190 42 286 42s191-16 286-42" fill="none" stroke="#FFFFFF" stroke-opacity=".42" stroke-width="4"/>
+  <path d="M600 321v159" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#FFFFFF">
+    <rect x="392" y="222" width="24" height="106" rx="4" transform="rotate(10 404 275)"/>
+    <rect x="434" y="214" width="24" height="106" rx="4" transform="rotate(10 446 267)" fill-opacity=".65"/>
+    <rect x="784" y="222" width="24" height="106" rx="4" transform="rotate(-10 796 275)"/>
+    <rect x="742" y="214" width="24" height="106" rx="4" transform="rotate(-10 754 267)" fill-opacity=".65"/>
+  </g>
+</svg>

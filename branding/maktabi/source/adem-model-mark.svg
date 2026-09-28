@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Adem model mark</title>
+  <desc id="desc">A subordinate Adem A mark built from the Maktabi module and corner system.</desc>
+  <rect width="96" height="96" rx="24" fill="#09090B"/>
+  <g fill="#FFFFFF">
+    <path d="M20 78 34 18h13L39 78Z"/>
+    <path d="M49 18h13l15 60H63Z"/>
+    <path d="M31 51h34l-4 12H28Z"/>
+  </g>
+</svg>

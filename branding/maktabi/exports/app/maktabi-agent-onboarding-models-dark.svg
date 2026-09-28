@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Maktabi Agent model connection illustration</title>
+  <desc id="desc">Two Obsidian model cards for Adem and Adem Pro connected by a white workspace path.</desc>
+  <rect width="1200" height="720" rx="40" fill="#09090B"/>
+  <path d="M250 360h700" fill="none" stroke="#FFFFFF" stroke-opacity=".24" stroke-width="4" stroke-dasharray="10 14"/>
+  <g transform="translate(120 180)">
+    <rect width="360" height="360" rx="28" fill="#FFFFFF"/>
+    <circle cx="180" cy="130" r="72" fill="#09090B"/>
+    <path d="m149 180 31-94 31 94h-18l-13-43-13 43Z" fill="#FFFFFF"/>
+    <rect x="76" y="250" width="208" height="18" rx="9" fill="#09090B"/>
+    <rect x="113" y="286" width="134" height="14" rx="7" fill="#09090B" fill-opacity=".35"/>
+  </g>
+  <g transform="translate(720 180)">
+    <rect width="360" height="360" rx="28" fill="#FFFFFF"/>
+    <rect x="92" y="42" width="176" height="176" rx="30" fill="#09090B"/>
+    <path d="m149 180 31-94 31 94h-18l-13-43-13 43Z" fill="#FFFFFF"/>
+    <path d="M104 238h152M128 264h104" stroke="#09090B" stroke-width="14" stroke-linecap="round" stroke-opacity=".45"/>
+    <rect x="108" y="294" width="144" height="14" rx="7" fill="#09090B" fill-opacity=".35"/>
+  </g>
+  <circle cx="600" cy="360" r="28" fill="#FFFFFF"/>
+  <path d="m587 360 9 9 18-20" fill="none" stroke="#09090B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="820" viewBox="0 0 1280 820" role="img" aria-labelledby="title desc">
+  <title id="title">Maktabi Phase 2 approval board</title>
+  <desc id="desc">Consolidated approval board for the production symbol, Latin, Arabic, bilingual, Preview, one-color, Adem, and Adem Pro masters.</desc>
+  <defs>
+    <g id="symbol"><rect width="120" height="120" rx="29" fill="#09090B"/><g fill="#FFFFFF"><rect x="22" y="26" width="18" height="68" rx="2" transform="rotate(10 31 60)"/><rect x="51" y="26" width="18" height="68" rx="2"/><rect x="80" y="26" width="18" height="68" rx="2"/></g></g>
+    <g id="preview"><use href="#symbol" x="6" y="6"/><g fill="#FFFFFF"><path d="M0 20V0h20v4H4v16Z"/><path d="M112 0h20v20h-4V4h-16Z"/><path d="M0 112h4v16h16v4H0Z"/><path d="M128 112h4v20h-20v-4h16Z"/></g></g>
+    <g id="adem"><rect width="96" height="96" rx="24" fill="#09090B"/><g fill="#FFFFFF"><path d="M20 78 34 18h13L39 78Z"/><path d="M49 18h13l15 60H63Z"/><path d="M31 51h34l-4 12H28Z"/></g></g>
+    <g id="adem-pro"><use href="#adem" x="8" y="8"/><g fill="#FFFFFF"><path d="M0 16V0h16v4H4v12Z"/><path d="M96 0h16v16h-4V4H96Z"/><path d="M0 96h4v12h12v4H0Z"/><path d="M108 96h4v16H96v-4h12Z"/></g></g>
+  </defs>
+  <rect width="1280" height="820" fill="#18181B"/>
+  <text x="48" y="52" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" letter-spacing="2">MAKTABI BRAND ASSET SYSTEM · PHASE 2 APPROVED</text>
+  <text x="48" y="84" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="16">All outlined masters validated · Arabic/bilingual collateral-only · desktop runtime graphics remain Latin-only</text>
+  <g transform="translate(72 132)"><use href="#symbol"/></g><text x="72" y="284" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="18">Primary symbol</text><text x="72" y="310" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="14">G1 · approved</text>
+  <g transform="translate(300 132) scale(.6)"><use href="#symbol"/></g><text x="300" y="284" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="18">Latin lockup</text><text x="300" y="310" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="14">G2 · approved</text>
+  <g transform="translate(510 132) scale(.6)"><use href="#symbol"/></g><text x="510" y="284" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="18">Arabic lockup</text><text x="510" y="310" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="14">G3 · approved · collateral</text>
+  <g transform="translate(720 132) scale(.6)"><use href="#symbol"/></g><text x="720" y="284" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="18">Bilingual lockup</text><text x="720" y="310" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="14">G4 · approved · collateral</text>
+  <g transform="translate(930 124) scale(.65)"><use href="#preview"/></g><text x="930" y="284" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="18">Preview modifier</text><text x="930" y="310" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="14">G5 · approved</text>
+  <rect x="48" y="370" width="1184" height="2" fill="#3F3F46"/>
+  <g transform="translate(110 448) scale(.8)"><use href="#adem"/></g><text x="110" y="584" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="18">Adem</text><text x="110" y="610" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="14">G6 · approved</text>
+  <g transform="translate(350 440) scale(.8)"><use href="#adem-pro"/></g><text x="350" y="584" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="18">Adem Pro</text><text x="350" y="610" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="14">G6 · approved</text>
+  <g transform="translate(620 448) scale(.8)"><use href="#symbol"/></g><text x="620" y="584" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="18">One-color dark/light</text><text x="620" y="610" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="14">G7 · approved</text>
+  <text x="48" y="714" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="16">Phase 2 exit: masters, proofs, manifest, and route inventory are frozen for Phase 3 export generation.</text>
+  <text x="48" y="748" fill="#71717A" font-family="Arial, sans-serif" font-size="14">Approval date: 2026-09-27 · No runtime package or application code changed during Phase 2.</text>
+</svg>

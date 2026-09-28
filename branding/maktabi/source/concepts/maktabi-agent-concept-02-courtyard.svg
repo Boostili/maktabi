@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title description">
+  <title id="title">Maktabi Agent logo concept 02 — Courtyard M</title>
+  <desc id="description">A symmetric solid gold M built as two architectural wings around a calm central courtyard and work surface.</desc>
+  <defs>
+    <g id="courtyard-mark">
+      <path d="M28 220V44H76L128 118L180 44H228V220H178V132L128 196L78 132V220Z" fill="#E6A93D"/>
+      <path d="M104 220V184H152V220Z" fill="#09090B"/>
+      <path d="M96 208H160" stroke="#E6A93D" stroke-width="8"/>
+    </g>
+  </defs>
+
+  <rect width="1200" height="800" fill="#09090B"/>
+  <path d="M72 82H1128" stroke="#E6A93D" stroke-width="2" opacity="0.55"/>
+  <text x="72" y="58" fill="#E6A93D" font-family="Manrope, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">MAKTABI AGENT · CONCEPT 02</text>
+  <text x="72" y="135" fill="#FFFFFF" font-family="Manrope, Arial, sans-serif" font-size="52" font-weight="700">Courtyard M</text>
+  <text x="72" y="170" fill="#A1A1AA" font-family="Manrope, Arial, sans-serif" font-size="18">Grounded · multidisciplinary · calm institutional presence</text>
+
+  <rect x="72" y="220" width="420" height="420" rx="88" fill="#E6A93D"/>
+  <rect x="92" y="240" width="380" height="380" rx="70" fill="#09090B"/>
+  <g transform="translate(154 304)">
+    <use href="#courtyard-mark"/>
+  </g>
+
+  <g transform="translate(568 262)">
+    <text x="0" y="78" fill="#FFFFFF" font-family="Manrope, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-2">Maktabi</text>
+    <rect x="2" y="103" width="154" height="38" fill="#E6A93D"/>
+    <text x="18" y="130" fill="#09090B" font-family="Manrope, Arial, sans-serif" font-size="21" font-weight="800" letter-spacing="6">AGENT</text>
+    <path d="M0 168H472" stroke="#E6A93D" stroke-width="2" opacity="0.65"/>
+    <text x="260" y="238" fill="#FFFFFF" font-family="Noto Sans Arabic, Arial, sans-serif" font-size="58" font-weight="700" text-anchor="end" direction="rtl">مكتبي</text>
+    <text x="0" y="290" fill="#A1A1AA" font-family="Manrope, Arial, sans-serif" font-size="18">A solid workspace with a protected centre.</text>
+    <text x="0" y="322" fill="#A1A1AA" font-family="Manrope, Arial, sans-serif" font-size="18">Broad enough for education, legal, finance, and coding.</text>
+  </g>
+
+  <g transform="translate(72 690)">
+    <text x="0" y="22" fill="#71717A" font-family="Manrope, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2">SCALE CHECK</text>
+    <g transform="translate(154 0)"><rect width="64" height="64" rx="14" fill="#09090B" stroke="#27272A"/><g transform="translate(7 7) scale(.195)"><use href="#courtyard-mark"/></g><text x="22" y="84" fill="#71717A" font-family="Manrope, Arial, sans-serif" font-size="12">64</text></g>
+    <g transform="translate(252 16)"><rect width="48" height="48" rx="11" fill="#09090B" stroke="#27272A"/><g transform="translate(5 5) scale(.148)"><use href="#courtyard-mark"/></g><text x="15" y="68" fill="#71717A" font-family="Manrope, Arial, sans-serif" font-size="12">48</text></g>
+    <g transform="translate(334 28)"><rect width="32" height="32" rx="7" fill="#09090B" stroke="#27272A"/><g transform="translate(3 3) scale(.102)"><use href="#courtyard-mark"/></g><text x="8" y="52" fill="#71717A" font-family="Manrope, Arial, sans-serif" font-size="12">32</text></g>
+    <g transform="translate(400 36)"><rect width="24" height="24" rx="5" fill="#09090B" stroke="#27272A"/><g transform="translate(2 2) scale(.078)"><use href="#courtyard-mark"/></g><text x="4" y="44" fill="#71717A" font-family="Manrope, Arial, sans-serif" font-size="12">24</text></g>
+    <g transform="translate(458 40)"><rect width="16" height="16" rx="3" fill="#09090B" stroke="#27272A"/><g transform="translate(1.5 1.5) scale(.051)"><use href="#courtyard-mark"/></g><text x="0" y="36" fill="#71717A" font-family="Manrope, Arial, sans-serif" font-size="12">16</text></g>
+  </g>
+</svg>

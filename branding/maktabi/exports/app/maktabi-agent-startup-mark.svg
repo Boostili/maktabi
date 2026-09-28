@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Maktabi Agent startup mark</title>
+  <desc id="desc">Three white book modules nested inside an Obsidian rounded square with a quiet orbit line.</desc>
+  <rect width="160" height="160" rx="38" fill="#09090B"/>
+  <path d="M28 80c0-29 23-52 52-52s52 23 52 52-23 52-52 52-52-23-52-52Z" fill="none" stroke="#FFFFFF" stroke-opacity=".22" stroke-width="2"/>
+  <g fill="#FFFFFF">
+    <rect x="45" y="43" width="20" height="74" rx="3" transform="rotate(10 55 80)"/>
+    <rect x="70" y="43" width="20" height="74" rx="3"/>
+    <rect x="95" y="43" width="20" height="74" rx="3"/>
+  </g>
+</svg>

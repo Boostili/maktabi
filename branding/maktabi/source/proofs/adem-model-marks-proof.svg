@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Adem and Adem Pro model mark proof</title>
+  <desc id="desc">Adem and Adem Pro marks shown on dark and light model-list surfaces with thinking levels as text.</desc>
+  <defs>
+    <g id="adem">
+      <rect width="96" height="96" rx="24" fill="#09090B"/>
+      <g fill="#FFFFFF"><path d="M20 78 34 18h13L39 78Z"/><path d="M49 18h13l15 60H63Z"/><path d="M31 51h34l-4 12H28Z"/></g>
+    </g>
+    <g id="adem-pro"><use href="#adem" x="8" y="8"/><g fill="#FFFFFF"><path d="M0 16V0h16v4H4v12Z"/><path d="M96 0h16v16h-4V4H96Z"/><path d="M0 96h4v12h12v4H0Z"/><path d="M108 96h4v16H96v-4h12Z"/></g></g>
+  </defs>
+  <rect width="900" height="520" fill="#18181B"/>
+  <text x="40" y="38" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="18" letter-spacing="1.6">FIRST-PARTY MODEL MARKS · DARK SURFACE</text>
+  <use href="#adem" x="56" y="72"/><text x="176" y="112" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="26">Adem</text><text x="176" y="145" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="16">Low · Moderate</text>
+  <use href="#adem-pro" x="450" y="64"/><text x="590" y="112" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="26">Adem Pro</text><text x="590" y="145" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="16">Low · Moderate · High · Max</text>
+  <rect y="220" width="900" height="300" fill="#FFFFFF"/>
+  <text x="40" y="258" fill="#71717A" font-family="Arial, sans-serif" font-size="18" letter-spacing="1.6">FIRST-PARTY MODEL MARKS · LIGHT SURFACE</text>
+  <use href="#adem" x="56" y="292"/><text x="176" y="332" fill="#09090B" font-family="Arial, sans-serif" font-size="26">Adem</text><text x="176" y="365" fill="#71717A" font-family="Arial, sans-serif" font-size="16">Low · Moderate</text>
+  <use href="#adem-pro" x="450" y="284"/><text x="590" y="332" fill="#09090B" font-family="Arial, sans-serif" font-size="26">Adem Pro</text><text x="590" y="365" fill="#71717A" font-family="Arial, sans-serif" font-size="16">Low · Moderate · High · Max</text>
+  <text x="40" y="472" fill="#71717A" font-family="Arial, sans-serif" font-size="16">Subordinate model marks · OmniRoute receives no customer-facing mark</text>
+</svg>

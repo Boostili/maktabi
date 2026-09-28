@@ -37,4 +37,3 @@ HARNESS_ROOT/packages/desktop/build/icon.ico
 - Current identity-system work: `docs/rebrand/phase-2/TICKETS.md`
 
 No runtime assets or application code have been replaced yet.
-

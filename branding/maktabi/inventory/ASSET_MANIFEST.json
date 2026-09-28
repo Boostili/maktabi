@@ -1,0 +1,574 @@
+{
+  "schemaVersion": "1.0",
+  "brand": "Maktabi",
+  "product": "Maktabi Agent",
+  "phase": 2,
+  "status": "frozen",
+  "updatedAt": "2026-09-27",
+  "frozenAt": "2026-09-27",
+  "approvalBoard": "branding/maktabi/source/proofs/phase-2-approval-board.svg",
+  "palette": {
+    "obsidian": "#09090B",
+    "white": "#FFFFFF"
+  },
+  "statuses": [
+    "planned",
+    "draft",
+    "review",
+    "approved",
+    "rejected",
+    "archived"
+  ],
+  "assets": [
+    {
+      "id": "maktabi-agent-mark-primary",
+      "name": "Maktabi Agent Primary Symbol",
+      "type": "symbol",
+      "path": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "mimeType": "image/svg+xml",
+      "dimensions": {
+        "width": 120,
+        "height": 120,
+        "viewBox": "0 0 120 120"
+      },
+      "status": "approved",
+      "version": 1,
+      "source": "branding/maktabi/source/concepts/maktabi-agent-concept-04-symbol.svg",
+      "approvedBy": "Maktabi product owner",
+      "approvedAt": "2026-09-24",
+      "colors": [
+        "#09090B",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "id": "maktabi-agent-lockup-latin-horizontal",
+      "name": "Maktabi Agent Latin Horizontal Lockup",
+      "type": "lockup",
+      "path": "branding/maktabi/source/maktabi-agent-lockup-latin-horizontal.svg",
+      "mimeType": "image/svg+xml",
+      "dimensions": {
+        "width": 448,
+        "height": 120,
+        "viewBox": "0 0 448 120"
+      },
+      "status": "approved",
+      "version": 1,
+      "source": "branding/maktabi/source/maktabi-agent-lockup-latin-horizontal-text-reference.svg",
+      "proof": "branding/maktabi/source/proofs/maktabi-agent-lockup-latin-horizontal-proof.svg",
+      "constructionFont": "Manrope ExtraBold/Bold",
+      "approvedBy": "Maktabi product owner",
+      "approvedAt": "2026-09-27",
+      "colors": [
+        "#09090B",
+        "#FFFFFF"
+      ],
+      "dependsOn": [
+        "maktabi-agent-mark-primary"
+      ]
+    },
+    {
+      "id": "maktabi-agent-lockup-ar-horizontal",
+      "name": "Maktabi Arabic Horizontal Lockup",
+      "type": "lockup",
+      "path": "branding/maktabi/source/maktabi-agent-lockup-ar-horizontal.svg",
+      "mimeType": "image/svg+xml",
+      "dimensions": {
+        "width": 424,
+        "height": 120,
+        "viewBox": "0 0 424 120"
+      },
+      "status": "approved",
+      "version": 1,
+      "source": "branding/maktabi/source/maktabi-agent-lockup-ar-horizontal-text-reference.svg",
+      "proof": "branding/maktabi/source/proofs/maktabi-agent-lockup-ar-horizontal-proof.svg",
+      "constructionFont": "Tajawal Bold",
+      "fontSource": "Google Fonts",
+      "approvedBy": "Maktabi product owner",
+      "approvedAt": "2026-09-27",
+      "colors": [
+        "#09090B",
+        "#FFFFFF"
+      ],
+      "dependsOn": [
+        "maktabi-agent-mark-primary"
+      ]
+    },
+    {
+      "id": "maktabi-agent-lockup-bilingual",
+      "name": "Maktabi Bilingual Lockup",
+      "type": "lockup",
+      "path": "branding/maktabi/source/maktabi-agent-lockup-bilingual.svg",
+      "mimeType": "image/svg+xml",
+      "dimensions": {
+        "width": 788,
+        "height": 120,
+        "viewBox": "0 0 788 120"
+      },
+      "status": "approved",
+      "version": 1,
+      "source": "branding/maktabi/source/maktabi-agent-lockup-latin-horizontal.svg; branding/maktabi/source/maktabi-agent-lockup-ar-horizontal.svg",
+      "proof": "branding/maktabi/source/proofs/maktabi-agent-lockup-bilingual-proof.svg",
+      "approvedBy": "Maktabi product owner",
+      "approvedAt": "2026-09-27",
+      "colors": [
+        "#09090B",
+        "#FFFFFF"
+      ],
+      "dependsOn": [
+        "maktabi-agent-lockup-latin-horizontal",
+        "maktabi-agent-lockup-ar-horizontal"
+      ]
+    },
+    {
+      "id": "maktabi-agent-mark-preview",
+      "name": "Maktabi Agent Preview Symbol",
+      "type": "symbol-variant",
+      "path": "branding/maktabi/source/maktabi-agent-mark-preview.svg",
+      "mimeType": "image/svg+xml",
+      "dimensions": {
+        "width": 132,
+        "height": 132,
+        "viewBox": "0 0 132 132"
+      },
+      "status": "approved",
+      "version": 1,
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "proof": "branding/maktabi/source/proofs/maktabi-agent-mark-preview-proof.svg",
+      "approvedBy": "Maktabi product owner",
+      "approvedAt": "2026-09-27",
+      "colors": [
+        "#09090B",
+        "#FFFFFF"
+      ],
+      "dependsOn": [
+        "maktabi-agent-mark-primary"
+      ]
+    },
+    {
+      "id": "maktabi-agent-mark-one-color-dark",
+      "name": "Maktabi Agent One-Color Dark Symbol",
+      "type": "symbol-variant",
+      "path": "branding/maktabi/source/maktabi-agent-mark-one-color-dark.svg",
+      "mimeType": "image/svg+xml",
+      "dimensions": {
+        "width": 120,
+        "height": 120,
+        "viewBox": "0 0 120 120"
+      },
+      "status": "approved",
+      "version": 1,
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "proof": "branding/maktabi/source/proofs/maktabi-agent-usage-rules-proof.svg",
+      "approvedBy": "Maktabi product owner",
+      "approvedAt": "2026-09-27",
+      "colors": [
+        "#09090B",
+        "transparent"
+      ],
+      "dependsOn": [
+        "maktabi-agent-mark-primary"
+      ]
+    },
+    {
+      "id": "maktabi-agent-mark-one-color-light",
+      "name": "Maktabi Agent One-Color Light Symbol",
+      "type": "symbol-variant",
+      "path": "branding/maktabi/source/maktabi-agent-mark-one-color-light.svg",
+      "mimeType": "image/svg+xml",
+      "dimensions": {
+        "width": 120,
+        "height": 120,
+        "viewBox": "0 0 120 120"
+      },
+      "status": "approved",
+      "version": 1,
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "proof": "branding/maktabi/source/proofs/maktabi-agent-usage-rules-proof.svg",
+      "approvedBy": "Maktabi product owner",
+      "approvedAt": "2026-09-27",
+      "colors": [
+        "#FFFFFF",
+        "transparent"
+      ],
+      "dependsOn": [
+        "maktabi-agent-mark-primary"
+      ]
+    },
+    {
+      "id": "adem-model-mark",
+      "name": "Adem Model Mark",
+      "type": "model-mark",
+      "path": "branding/maktabi/source/adem-model-mark.svg",
+      "mimeType": "image/svg+xml",
+      "dimensions": {
+        "width": 96,
+        "height": 96,
+        "viewBox": "0 0 96 96"
+      },
+      "status": "approved",
+      "version": 1,
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "proof": "branding/maktabi/source/proofs/adem-model-marks-proof.svg",
+      "approvedBy": "Maktabi product owner",
+      "approvedAt": "2026-09-27",
+      "colors": [
+        "#09090B",
+        "#FFFFFF"
+      ],
+      "dependsOn": [
+        "maktabi-agent-mark-primary"
+      ]
+    },
+    {
+      "id": "adem-pro-model-mark",
+      "name": "Adem Pro Model Mark",
+      "type": "model-mark",
+      "path": "branding/maktabi/source/adem-pro-model-mark.svg",
+      "mimeType": "image/svg+xml",
+      "dimensions": {
+        "width": 112,
+        "height": 112,
+        "viewBox": "0 0 112 112"
+      },
+      "status": "approved",
+      "version": 1,
+      "source": "branding/maktabi/source/adem-model-mark.svg",
+      "proof": "branding/maktabi/source/proofs/adem-model-marks-proof.svg",
+      "approvedBy": "Maktabi product owner",
+      "approvedAt": "2026-09-27",
+      "colors": [
+        "#09090B",
+        "#FFFFFF"
+      ],
+      "dependsOn": [
+        "adem-model-mark"
+      ]
+    }
+  ],
+  "exportMatrix": {
+    "version": 1,
+    "status": "approved",
+    "approvedAt": "2026-09-27",
+    "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+    "previewSource": "branding/maktabi/source/maktabi-agent-mark-preview.svg",
+    "icoSizes": [
+      16,
+      24,
+      32,
+      48,
+      64,
+      128,
+      256
+    ],
+    "pngSizes": [
+      16,
+      24,
+      32,
+      48,
+      64,
+      128,
+      256,
+      512,
+      1024
+    ]
+  },
+  "exports": [
+    {
+      "id": "web-favicon-ico",
+      "path": "branding/maktabi/exports/web/favicon.ico",
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "route": "HARNESS_ROOT/packages/web/public/favicon.ico",
+      "dimensions": {
+        "icoEntries": [
+          16,
+          32,
+          48
+        ]
+      },
+      "format": "ico",
+      "colorMode": "embedded PNG RGBA",
+      "checksum": "sha256:07ff409094324fdc60591f86328cf3384335ceb092e66e95089972fdef3f98c4",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    },
+    {
+      "id": "web-icon-1024-png",
+      "path": "branding/maktabi/exports/web/icon-1024.png",
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "route": "HARNESS_ROOT/public/icon_512@2x.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "format": "png",
+      "colorMode": "RGBA",
+      "checksum": "sha256:57e099e03db64c91834d8cf3d68f79dc99a401bcea48e99e11ea46b7f42c1b92",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    },
+    {
+      "id": "windows-icon-installer-ico",
+      "path": "branding/maktabi/exports/windows/icon-installer.ico",
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "route": "HARNESS_ROOT/packages/desktop/build/icon_installer.ico",
+      "dimensions": {
+        "icoEntries": [
+          16,
+          24,
+          32,
+          48,
+          64,
+          128,
+          256
+        ]
+      },
+      "format": "ico",
+      "colorMode": "embedded PNG RGBA",
+      "checksum": "sha256:00ee2500bdb6a004dd58af3ccecb906a0b5e86c71b64c67fec61eb7647148110",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    },
+    {
+      "id": "windows-icon-installer-png",
+      "path": "branding/maktabi/exports/windows/icon-installer.png",
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "route": "HARNESS_ROOT/packages/desktop/build/icon_installer.png",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      },
+      "format": "png",
+      "colorMode": "RGBA",
+      "checksum": "sha256:c0e9317d95b4ac1b47f0a256e01b76c8b8fe58c521f7844f811b31d69f8412cb",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    },
+    {
+      "id": "windows-icon-preview-ico",
+      "path": "branding/maktabi/exports/windows/icon-preview.ico",
+      "source": "branding/maktabi/source/maktabi-agent-mark-preview.svg",
+      "route": "HARNESS_ROOT/packages/desktop/build/icon_preview.ico",
+      "dimensions": {
+        "icoEntries": [
+          16,
+          24,
+          32,
+          48,
+          64,
+          128,
+          256
+        ]
+      },
+      "format": "ico",
+      "colorMode": "embedded PNG RGBA",
+      "checksum": "sha256:ef1bd45cbb66bb0e8d4b840b79d5c4b28d2f225f5be166fed9bc8c14c4a4af00",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    },
+    {
+      "id": "windows-icon-windows-png",
+      "path": "branding/maktabi/exports/windows/icon-windows.png",
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "route": "HARNESS_ROOT/packages/desktop/build/icon_windows.png",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      },
+      "format": "png",
+      "colorMode": "RGBA",
+      "checksum": "sha256:c0e9317d95b4ac1b47f0a256e01b76c8b8fe58c521f7844f811b31d69f8412cb",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    },
+    {
+      "id": "windows-icon-ico",
+      "path": "branding/maktabi/exports/windows/icon.ico",
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "route": "HARNESS_ROOT/packages/desktop/build/icon.ico",
+      "dimensions": {
+        "icoEntries": [
+          16,
+          24,
+          32,
+          48,
+          64,
+          128,
+          256
+        ]
+      },
+      "format": "ico",
+      "colorMode": "embedded PNG RGBA",
+      "checksum": "sha256:00ee2500bdb6a004dd58af3ccecb906a0b5e86c71b64c67fec61eb7647148110",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    },
+    {
+      "id": "windows-icon-png",
+      "path": "branding/maktabi/exports/windows/icon.png",
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "route": "HARNESS_ROOT/packages/desktop/build/icon.png",
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "format": "png",
+      "colorMode": "RGBA",
+      "checksum": "sha256:42b681bcb677376dfcd62d5d2100af5fea5d2876c8a138eb11fb5e08b9eefafe",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    },
+    {
+      "id": "windows-icons-1024x1024-png",
+      "path": "branding/maktabi/exports/windows/icons/1024x1024.png",
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "route": "HARNESS_ROOT/packages/desktop/build/icons/1024x1024.png and HARNESS_ROOT/public/logo/icons/1024x1024.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "format": "png",
+      "colorMode": "RGBA",
+      "checksum": "sha256:57e099e03db64c91834d8cf3d68f79dc99a401bcea48e99e11ea46b7f42c1b92",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    },
+    {
+      "id": "windows-icons-128x128-png",
+      "path": "branding/maktabi/exports/windows/icons/128x128.png",
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "route": "HARNESS_ROOT/packages/desktop/build/icons/128x128.png and HARNESS_ROOT/public/logo/icons/128x128.png",
+      "dimensions": {
+        "width": 128,
+        "height": 128
+      },
+      "format": "png",
+      "colorMode": "RGBA",
+      "checksum": "sha256:9d588de030cb91c817bfcc43d25b8d2fdd018f8279276e2f13f2aa1aea631328",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    },
+    {
+      "id": "windows-icons-16x16-png",
+      "path": "branding/maktabi/exports/windows/icons/16x16.png",
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "route": "HARNESS_ROOT/packages/desktop/build/icons/16x16.png and HARNESS_ROOT/public/logo/icons/16x16.png",
+      "dimensions": {
+        "width": 16,
+        "height": 16
+      },
+      "format": "png",
+      "colorMode": "RGBA",
+      "checksum": "sha256:6e49d7f680328f6f6cd0670cc7ef3ca907e662c9055492d3a7e289188ddfa718",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    },
+    {
+      "id": "windows-icons-24x24-png",
+      "path": "branding/maktabi/exports/windows/icons/24x24.png",
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "route": "HARNESS_ROOT/packages/desktop/build/icons/24x24.png and HARNESS_ROOT/public/logo/icons/24x24.png",
+      "dimensions": {
+        "width": 24,
+        "height": 24
+      },
+      "format": "png",
+      "colorMode": "RGBA",
+      "checksum": "sha256:e5e4e54323f3513f1424613ad0b0cdfbece1717ba81e09e868c3eb8c10c50ff2",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    },
+    {
+      "id": "windows-icons-256x256-png",
+      "path": "branding/maktabi/exports/windows/icons/256x256.png",
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "route": "HARNESS_ROOT/packages/desktop/build/icons/256x256.png and HARNESS_ROOT/public/logo/icons/256x256.png",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      },
+      "format": "png",
+      "colorMode": "RGBA",
+      "checksum": "sha256:c0e9317d95b4ac1b47f0a256e01b76c8b8fe58c521f7844f811b31d69f8412cb",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    },
+    {
+      "id": "windows-icons-32x32-png",
+      "path": "branding/maktabi/exports/windows/icons/32x32.png",
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "route": "HARNESS_ROOT/packages/desktop/build/icons/32x32.png and HARNESS_ROOT/public/logo/icons/32x32.png",
+      "dimensions": {
+        "width": 32,
+        "height": 32
+      },
+      "format": "png",
+      "colorMode": "RGBA",
+      "checksum": "sha256:d2f648f525fb304729f2c41612494be8e110150b72247485927e39465d5c57ae",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    },
+    {
+      "id": "windows-icons-48x48-png",
+      "path": "branding/maktabi/exports/windows/icons/48x48.png",
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "route": "HARNESS_ROOT/packages/desktop/build/icons/48x48.png and HARNESS_ROOT/public/logo/icons/48x48.png",
+      "dimensions": {
+        "width": 48,
+        "height": 48
+      },
+      "format": "png",
+      "colorMode": "RGBA",
+      "checksum": "sha256:c9b2794d58cc9651a69541fafe45bef820a9061d2ae17b5839ba8b98d53eb51a",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    },
+    {
+      "id": "windows-icons-512x512-png",
+      "path": "branding/maktabi/exports/windows/icons/512x512.png",
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "route": "HARNESS_ROOT/packages/desktop/build/icons/512x512.png and HARNESS_ROOT/public/logo/icons/512x512.png",
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "format": "png",
+      "colorMode": "RGBA",
+      "checksum": "sha256:42b681bcb677376dfcd62d5d2100af5fea5d2876c8a138eb11fb5e08b9eefafe",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    },
+    {
+      "id": "windows-icons-64x64-png",
+      "path": "branding/maktabi/exports/windows/icons/64x64.png",
+      "source": "branding/maktabi/source/maktabi-agent-mark-primary.svg",
+      "route": "HARNESS_ROOT/packages/desktop/build/icons/64x64.png and HARNESS_ROOT/public/logo/icons/64x64.png",
+      "dimensions": {
+        "width": 64,
+        "height": 64
+      },
+      "format": "png",
+      "colorMode": "RGBA",
+      "checksum": "sha256:d45ab90640199d33c87630daf2ca1eb6d6efc6f0699f8b72011dea825bc59470",
+      "version": 1,
+      "status": "approved",
+      "approvedAt": "2026-09-27"
+    }
+  ]
+}

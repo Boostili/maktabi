@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Maktabi Agent ready illustration</title>
+  <desc id="desc">A centered white workspace tile with three book modules and an open path indicating a completed setup.</desc>
+  <rect width="1200" height="720" rx="40" fill="#09090B"/>
+  <path d="M188 548h824" stroke="#FFFFFF" stroke-opacity=".2" stroke-width="2"/>
+  <rect x="360" y="116" width="480" height="390" rx="34" fill="#FFFFFF"/>
+  <path d="M438 398h324" stroke="#09090B" stroke-opacity=".2" stroke-width="4"/>
+  <g fill="#09090B">
+    <rect x="484" y="188" width="48" height="178" rx="6" transform="rotate(10 508 277)"/>
+    <rect x="576" y="188" width="48" height="178" rx="6"/>
+    <rect x="668" y="188" width="48" height="178" rx="6"/>
+  </g>
+  <circle cx="600" cy="438" r="26" fill="#09090B"/>
+  <path d="m587 438 9 9 18-20" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

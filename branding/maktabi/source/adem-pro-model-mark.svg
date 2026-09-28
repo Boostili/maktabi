@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="112" viewBox="0 0 112 112" role="img" aria-labelledby="title desc">
+  <title id="title">Adem Pro model mark</title>
+  <desc id="desc">The Adem A mark with a restrained external four-corner modifier for Adem Pro.</desc>
+  <g transform="translate(8 8)">
+    <rect width="96" height="96" rx="24" fill="#09090B"/>
+    <g fill="#FFFFFF">
+      <path d="M20 78 34 18h13L39 78Z"/>
+      <path d="M49 18h13l15 60H63Z"/>
+      <path d="M31 51h34l-4 12H28Z"/>
+    </g>
+  </g>
+  <g fill="#FFFFFF">
+    <path d="M0 16V0h16v4H4v12Z"/><path d="M96 0h16v16h-4V4H96Z"/>
+    <path d="M0 96h4v12h12v4H0Z"/><path d="M108 96h4v16H96v-4h12Z"/>
+  </g>
+</svg>

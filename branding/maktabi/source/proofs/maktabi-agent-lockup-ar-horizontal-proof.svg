@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="520" viewBox="0 0 820 520" role="img" aria-labelledby="title desc">
+  <title id="title">Maktabi Agent Arabic lockup proof board</title>
+  <desc id="desc">Tajawal Bold Arabic RTL lockup with the wordmark on the left and the symbol on the right, with safe separation and no clipped dots.</desc>
+  <defs>
+    <g id="mark">
+      <rect width="120" height="120" rx="29" fill="#09090B"/>
+      <g fill="#FFFFFF">
+        <rect x="22" y="26" width="18" height="68" rx="2" transform="rotate(10 31 60)"/>
+        <rect x="51" y="26" width="18" height="68" rx="2"/>
+        <rect x="80" y="26" width="18" height="68" rx="2"/>
+      </g>
+    </g>
+    <g id="arabic-paths"><path d="M693 0Q681 -92 589 -144Q506 -190 382 -190Q216 -190 132 -95Q70 -24 70 79Q70 158 107 217L227 242Q187 174 187 99Q187 15 237 -30Q287 -76 382 -76Q530 -76 562 0L466 0L529 121L696 121L696 0ZM315 -411Q285 -411 267 -392.5Q249 -374 249 -344Q249 -315 267 -297Q285 -279 315 -279Q345 -279 362.5 -296.5Q380 -314 380 -344Q380 -411 315 -411ZM469 -411Q439 -411 421 -393Q403 -375 403 -344Q403 -279 469 -279Q499 -279 516.5 -296.5Q534 -314 534 -344Q534 -411 469 -411Z" transform="translate(0.000 86) scale(0.08 -0.08)"/><path d="M326 121L416 121L416 0L314 0Q241 0 193 39Q145 0 72 0L-30 0L-30 121L60 121Q98 121 114 137.5Q130 154 130 193L130 378L256 444L256 193Q256 154 272 137.5Q288 121 326 121ZM199 -91Q229 -91 246.5 -108.5Q264 -126 264 -156Q264 -223 199 -223Q169 -223 151 -205Q133 -187 133 -156Q133 -127 151 -109Q169 -91 199 -91Z" transform="translate(54.000 86) scale(0.08 -0.08)"/><path d="M65 532Q35 532 17 550Q-1 568 -1 599Q-1 628 17 646Q35 664 65 664Q95 664 112.5 646.5Q130 629 130 599Q130 532 65 532ZM218 532Q188 532 170 550.5Q152 569 152 599Q152 628 170.5 646Q189 664 218 664Q248 664 265.5 646.5Q283 629 283 599Q283 532 218 532ZM326 121L416 121L416 0L314 0Q241 0 193 39Q145 0 72 0L-30 0L-30 121L60 121Q98 121 114 137.5Q130 154 130 193L130 378L256 444L256 193Q256 154 272 137.5Q288 121 326 121Z" transform="translate(84.880 86) scale(0.08 -0.08)"/><path d="M510 121L589 121L589 0L497 0Q424 0 377 39Q329 0 256 0L-30 0L-30 121L243 121Q313 121 313 190L313 196Q313 251 272 284.5Q231 318 164 318Q113 318 57 298L57 419L260 645L387 645L205 441Q284 433 339 394Q439 326 439 197L439 193Q439 154 455.5 137.5Q472 121 510 121Z" transform="translate(115.760 86) scale(0.08 -0.08)"/><path d="M130 276Q130 366 186 417Q235 461 312 461Q411 461 466 388Q513 327 513 231Q513 120 454 56Q401 0 319 0Q239 0 188 35Q140 0 72 0L-30 0L-30 121L60 121Q98 121 114 137.5Q130 154 130 193ZM256 177Q256 121 315 121Q389 121 389 235Q389 344 312 344Q256 344 256 278Z" transform="translate(160.480 86) scale(0.08 -0.08)"/></g>
+    <g id="lockup">
+      <g transform="translate(24 0)" fill="#09090B"><use href="#arabic-paths"/></g>
+      <use href="#mark" x="286"/>
+    </g>
+  </defs>
+  <rect width="820" height="520" fill="#FFFFFF"/>
+  <text x="36" y="28" fill="#71717A" font-family="Arial, sans-serif" font-size="14" letter-spacing="1.4">FULL SIZE · LIGHT FIELD · RTL</text>
+  <use href="#lockup" x="36" y="42"/>
+  <rect x="0" y="184" width="820" height="168" fill="#18181B"/>
+  <text x="36" y="212" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="14" letter-spacing="1.4">FULL SIZE · NEAR-BLACK FIELD · RTL</text>
+  <g transform="translate(36 226)" fill="#FFFFFF"><use href="#arabic-paths"/></g>
+  <use href="#mark" x="322" y="226"/>
+  <text x="36" y="386" fill="#71717A" font-family="Arial, sans-serif" font-size="14" letter-spacing="1.4">120 PX LOCKUP WIDTH · LIGHT / NEAR-BLACK</text>
+  <g transform="translate(36 404) scale(.283019)"><use href="#lockup"/></g>
+  <g transform="translate(180 404) scale(.283019)" fill="#FFFFFF"><use href="#arabic-paths"/><use href="#mark" x="286"/></g>
+  <text x="420" y="434" fill="#71717A" font-family="Arial, sans-serif" font-size="14">Graphic collateral only · Latin assets ship in the desktop app</text>
+</svg>

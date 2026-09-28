@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620" role="img" aria-labelledby="title desc">
+  <title id="title">Maktabi Agent Preview modifier comparison</title>
+  <desc id="desc">Three external Preview modifier treatments compared against Production at 16, 24, 32, 48, and 256 pixels. The four-corner bracket is selected.</desc>
+  <defs>
+    <g id="core">
+      <rect width="120" height="120" rx="29" fill="#09090B"/>
+      <g fill="#FFFFFF">
+        <rect x="22" y="26" width="18" height="68" rx="2" transform="rotate(10 31 60)"/>
+        <rect x="51" y="26" width="18" height="68" rx="2"/>
+        <rect x="80" y="26" width="18" height="68" rx="2"/>
+      </g>
+    </g>
+    <g id="bracket" fill="#FFFFFF">
+      <path d="M0 20V0h20v4H4v16Z"/><path d="M112 0h20v20h-4V4h-16Z"/>
+      <path d="M0 112h4v16h16v4H0Z"/><path d="M128 112h4v20h-20v-4h16Z"/>
+    </g>
+    <g id="corner-tab" fill="#FFFFFF"><path d="M96 96h36v36h-8v-28H96Z"/></g>
+    <g id="double-rail" fill="#FFFFFF"><path d="M0 10h20v4H4v16H0Z"/><path d="M112 0h20v20h-4V4h-16Z"/><path d="M0 112h4v16h16v4H0Z"/><path d="M112 128h16v-16h4v20h-20Z"/></g>
+  </defs>
+  <rect width="1100" height="620" fill="#18181B"/>
+  <text x="40" y="42" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="18" letter-spacing="1.6">PREVIEW MODIFIER OPTIONS · OBSIDIAN / WHITE ONLY</text>
+  <g transform="translate(60 72)"><use href="#core"/></g>
+  <text x="60" y="220" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="16">Production</text>
+  <g transform="translate(300 72)"><use href="#core"/><use href="#bracket"/></g>
+  <text x="300" y="220" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="16">Option A · four-corner bracket · selected</text>
+  <g transform="translate(680 72)"><use href="#core"/><use href="#corner-tab"/></g>
+  <text x="680" y="220" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="16">Option B · corner tab</text>
+  <g transform="translate(900 72)"><use href="#core"/><use href="#double-rail"/></g>
+  <text x="900" y="220" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="16">Option C · double rail</text>
+  <text x="40" y="280" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="16" letter-spacing="1.4">SELECTED OPTION A · SMALL-SIZE CHECKS</text>
+  <g transform="translate(60 316) scale(.133333)"><use href="#core"/></g><text x="60" y="470" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="16">16</text>
+  <g transform="translate(170 310) scale(.2)"><use href="#core"/><use href="#bracket"/></g><text x="170" y="470" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="16">24</text>
+  <g transform="translate(300 300) scale(.266667)"><use href="#core"/><use href="#bracket"/></g><text x="300" y="470" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="16">32</text>
+  <g transform="translate(450 286) scale(.4)"><use href="#core"/><use href="#bracket"/></g><text x="450" y="470" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="16">48</text>
+  <g transform="translate(620 250) scale(1.6)"><use href="#core"/><use href="#bracket"/></g><text x="620" y="470" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="16">256</text>
+  <text x="40" y="560" fill="#A1A1AA" font-family="Arial, sans-serif" font-size="16">No error badge, notification dot, gradient, or text-only distinction.</text>
+</svg>

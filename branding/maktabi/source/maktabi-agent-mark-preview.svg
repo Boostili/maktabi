@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="132" viewBox="0 0 132 132" role="img" aria-labelledby="title desc">
+  <title id="title">Maktabi Agent Preview symbol</title>
+  <desc id="desc">The production symbol with an external four-corner white bracket modifier for Preview.</desc>
+  <g id="production-mark" transform="translate(6 6)">
+    <rect width="120" height="120" rx="29" fill="#09090B"/>
+    <g fill="#FFFFFF">
+      <rect x="22" y="26" width="18" height="68" rx="2" transform="rotate(10 31 60)"/>
+      <rect x="51" y="26" width="18" height="68" rx="2"/>
+      <rect x="80" y="26" width="18" height="68" rx="2"/>
+    </g>
+  </g>
+  <g id="preview-bracket" fill="#FFFFFF">
+    <path d="M0 20V0h20v4H4v16Z"/>
+    <path d="M112 0h20v20h-4V4h-16Z"/>
+    <path d="M0 112h4v16h16v4H0Z"/>
+    <path d="M128 112h4v20h-20v-4h16Z"/>
+  </g>
+</svg>
